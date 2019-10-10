@@ -2,13 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Little Saxony Tales</title>
-    <link>http://example.org/</link>
+    <link>http://tianlinhe.github.io/</link>
     <description>Recent content on Little Saxony Tales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2019 09:59:03 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tianlinhe.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Three methods to determine confidence interval (CI) for ROC curve in Python</title>
+      <link>http://tianlinhe.github.io/posts/20190905-auc/</link>
+      <pubDate>Sun, 06 Oct 2019 09:59:03 +0200</pubDate>
+      
+      <guid>http://tianlinhe.github.io/posts/20190905-auc/</guid>
+      <description>Scenario: With the set of scores and binary class labels, you succesfully plotted the ROC (Receiver Operative Characteristic ) curve and computed its AUC (area und curve) with scikit-learn from python:
+import numpy as np #y_pred: numpy array of scores predicted by your model y_pred = np.array([0.8556125820831081, 0.1638014063083847, ..., 0.08512761636008265]) #y_true: numpy array of original class labels of your dataset y_true = np.array([1, 1,..., 0]) from sklearn.metrics import roc_auc_score print(&amp;quot;Original ROC area: {:0.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://tianlinhe.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 02 Oct 2019 23:31:49 +0200</pubDate>
+      
+      <guid>http://tianlinhe.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

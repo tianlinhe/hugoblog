@@ -2,13 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Little Saxony Tales</title>
-    <link>http://example.org/tags/</link>
+    <link>http://tianlinhe.github.io/tags/</link>
     <description>Recent content in Tags on Little Saxony Tales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2019 09:59:03 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tianlinhe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AUC</title>
+      <link>http://tianlinhe.github.io/tags/auc/</link>
+      <pubDate>Sun, 06 Oct 2019 09:59:03 +0200</pubDate>
+      
+      <guid>http://tianlinhe.github.io/tags/auc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrapping</title>
+      <link>http://tianlinhe.github.io/tags/bootstrapping/</link>
+      <pubDate>Sun, 06 Oct 2019 09:59:03 +0200</pubDate>
+      
+      <guid>http://tianlinhe.github.io/tags/bootstrapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>confidence interval</title>
+      <link>http://tianlinhe.github.io/tags/confidence-interval/</link>
+      <pubDate>Sun, 06 Oct 2019 09:59:03 +0200</pubDate>
+      
+      <guid>http://tianlinhe.github.io/tags/confidence-interval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://tianlinhe.github.io/tags/python/</link>
+      <pubDate>Sun, 06 Oct 2019 09:59:03 +0200</pubDate>
+      
+      <guid>http://tianlinhe.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROC</title>
+      <link>http://tianlinhe.github.io/tags/roc/</link>
+      <pubDate>Sun, 06 Oct 2019 09:59:03 +0200</pubDate>
+      
+      <guid>http://tianlinhe.github.io/tags/roc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://tianlinhe.github.io/tags/scikit-learn/</link>
+      <pubDate>Sun, 06 Oct 2019 09:59:03 +0200</pubDate>
+      
+      <guid>http://tianlinhe.github.io/tags/scikit-learn/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

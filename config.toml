@@ -1,4 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "http://tianlinhe.github.io"
 languageCode = "en-us"
 title = "Little Saxony Tales"
 theme = "ananke"
+disqusShortname = 'tianlinhe'
+googleAnalytics = "UA-135895652-1"
+
+
+[params]
+show_reading_time = true
+featured_image= "/images/header.jpeg"
